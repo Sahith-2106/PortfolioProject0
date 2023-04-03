@@ -13,5 +13,5 @@ I have collected covid data and Data transformation and preprocessing is done in
 This dashboard has five sections
                     -> Global statistics : It shows the death percentage globally. 
                     -> Percentage of people infected per country: In this, I visualized the percentage of covid infected people geographically.
-                    -> Total Deaths per continent : This bar graph visualize the total number of covid infected people continentally.
+                    -> Total Deaths per continent : This bar graph visualize the total number of Deaths continentally.
                     -> Percentage of population infected : This shows the Actual and Estimated percentage of covid infections between 2020 and 2021.                 
